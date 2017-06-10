@@ -1,0 +1,4 @@
+api_key: YOUR_OPENAI_GYM_API_KEY
+monitor_dir: /tmp/gym
+record: true
+upload: true
